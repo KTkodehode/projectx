@@ -1,6 +1,7 @@
 {
   "name": "node-starter",
   "version": "0.0.0",
+  "homepage": "http://KTkodehode.github.io/projectx",
   "scripts": {
     "dev": "vite",
     "predeploy" : "npm run build",
